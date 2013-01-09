@@ -1,0 +1,20 @@
+## Please edit system and help pages ONLY in the master wiki!
+## For more information, please see MoinMoin:MoinDev/Translation.
+##master-page:Unknown-Page
+##master-date:Unknown-Date
+#acl -All:write Default
+#format wiki
+#language es
+AyudaDeContenidos > AyudaParaDesarrolladores
+
+'''[[MoinMoinEs|MoinMoin]]''' no tendría un montón de características sin la ayuda de sus usuarios y desarrolladores. !MoinMoin está escrito en Python<<FootNote(Página principal de Python: http://www.python.org/)>> y utiliza Mercurial<<FootNote(Página principal de Mercurial: http://www.selenic.com/mercurial/)>> de sistema de control de versiones. Información sobre el código de fuente de !MoinMoin y otras cuestiones de desarrollo puede encontrarse en MoinMoin:MoinDev (wiki principal) y su subpáginas. Aquí puedes ver lo que puedes hacer para ayudar a mejorar !MoinMoin:
+
+ * Si algo no funciona bien envía un '''[[MoinMoin:MoinMoinBugs|informe de error]]''' (primero busca errores que ya existan en MoinMoin:KnownIssues)
+ * Si crees que algo falta puedes hacer una '''[[MoinMoin:FeatureRequests|SolicitudDeCaracterística]]''' (también busca antes de escribir una nueva).
+ * '''Desarrollar nuevas extensiones''': Crear macros, acciones, o analizadores sintácticos (MoinMoin:MoinMoinExtensions)
+ * '''Ayuda con Desarrollo de una Versión''': Ayuda de pruebas y desarrollo de MoinMoin (MoinMoin:MoinDev).
+ * '''Crear Parches''': Arreglar errores y escribir parches (AyudaSobreCreacionDeParches).
+ * '''Ayuda de Traducción''': Traduce MoinMoin a nuevos idiomas (MoinMoin:MoinDev/Translation)
+ * '''Diseño de Temas''': Crea estilos e iconos (MoinMoin:MoinDev/ThemeDevelopment)
+ * '''Construir Paquetes''': AyudaSobreInstaladorDePaquetes
+----
